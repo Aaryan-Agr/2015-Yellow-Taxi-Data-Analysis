@@ -37,7 +37,7 @@ The analysis includes **data cleaning, feature engineering, descriptive statisti
 ### 📊 Trip Distance Distribution  
 This histogram shows the distribution of taxi trip distances in NYC for January 2015.  
 
-<img src="charts/trip_distance_distribution.png" alt="Trip Distance Distribution" width="600">
+<img src="charts/trip_distance_distribution.png" alt="Trip Distance Distribution" width="1600">
 
 ### 📈 Average Fare Per Hour  
 This bar chart visualizes the **average fare amount per hour of the day**.  

@@ -34,20 +34,6 @@ The analysis includes **data cleaning, feature engineering, descriptive statisti
 ✅ **Trip Duration Trends by Day**  
 ✅ **Trip Duration vs. Hour of Day**  
 
-### 📊 Trip Distance Distribution  
-This histogram shows the distribution of taxi trip distances in NYC for January 2015.  
-
-<img src="charts/trip_distance_distribution.png" alt="Trip Distance Distribution" width="1600">
-
-### 📈 Average Fare Per Hour  
-This bar chart visualizes the **average fare amount per hour of the day**.  
-
-![Average Fare Per Hour](charts/avg_fare_per_hour.png)
-
-### 🚖 Busiest Pickup Hours  
-This chart shows the **busiest pickup hours**, highlighting peak demand times.  
-
-![Busiest Pickup Hours](charts/busiest_pickup_hours.png)
 
 
 ## 🛠 Technologies Used  
